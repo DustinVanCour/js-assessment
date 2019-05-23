@@ -3,7 +3,17 @@
 let sentence = 'When i went to the mall i bought a pair of shoes.';
 
 function uppercase(str) {
-
+  let out = ''
+  str.split(' ')
+  // create an array of words from the str parameter
+  // change for loop to iterate over the array
+  // inside of for loop add every word to out and if an i then uppercase before adding
+  // return out
+  for (let i = 0; i < arr.length; i++) {
+    let upI = arr[i];
+    if (upI == 'i'.toUpperCase());
+  }
+  return out
 }
 
 
